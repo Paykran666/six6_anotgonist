@@ -19,3 +19,4 @@ print("Результаты:")
 for manager in managers:
     print(f"{manager['name']} - Продажи: {manager['sales']}$ - Зарплата: {manager['salary']}$")
 print(f"\nЛучший менеджер: {best_manag['name']} - Зарплата: {best_manag['salary']}$")
+ 
